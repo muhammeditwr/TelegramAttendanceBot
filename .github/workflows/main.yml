@@ -29,6 +29,6 @@ jobs:
         python main.py
       env:
         BOT_TOKEN: 7319534098:AAGQhpfRoxiCa2W2zsMIznHeadPE1vGcgpg
-        SUPER_HR_EMP_ID: ${{ secrets.SUPER_HR_EMP_ID }}
-        SUPER_HR_NAME: ${{ secrets.SUPER_HR_NAME }}
-        SUPER_HR_PWD: ${{ secrets.SUPER_HR_PWD }}
+        SUPER_HR_EMP_ID: hr123456
+        SUPER_HR_NAME: Muhammed
+        SUPER_HR_PWD: 132456
